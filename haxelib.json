@@ -1,0 +1,12 @@
+{
+	"name" : "hx-uri-templates",
+	"url" : "https://github.com/stroncium/hx-uri-templates",
+	"tags" : [ "uri", "RFC6570" ],
+	"license" : "MIT",
+	"description" : "Haxe URI Templates implementation, RFC6570",
+	"version" : "0.0.1",
+	"releasenote" : "",
+	"classPath" : "src",
+	"contributors" : [ "stroncium" ],
+	"dependencies" : {}
+}
